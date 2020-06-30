@@ -1,5 +1,7 @@
 package com.wonjin.effective.constructor;
 
+import java.util.Objects;
+
 public class NutritionFacts {
     private final int servingSize;
     private final int servings;
