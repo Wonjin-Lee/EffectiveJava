@@ -21,8 +21,8 @@ public class SpellChecker {
     public List<String> suggestions(String typo) {
         return null;
     }
-}
 
-class Lexicon {
+    class Lexicon {
 
+    }
 }

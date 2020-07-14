@@ -35,7 +35,7 @@ public class ResourceCollectExample {
                 out.close();
             }
         } finally {
-            in.close();;
+            in.close();
         }
     }
 
