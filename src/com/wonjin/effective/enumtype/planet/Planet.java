@@ -1,4 +1,4 @@
-package com.wonjin.effective.enumtype;
+package com.wonjin.effective.enumtype.planet;
 
 // 데이터와 메서드를 갖는 열거 타입 예
 public enum Planet {

@@ -1,4 +1,4 @@
-package com.wonjin.effective.enumtype;
+package com.wonjin.effective.enumtype.planet;
 
 public class WeightTable {
     public static void main(String[] args) {
